@@ -1,3 +1,14 @@
+acr.tcl.com
+dcs.tcl.com
+analytics.tclclouds.com
+tracking.tclclouds.com
+tracking.cdn.tcl.com
+log.tclclouds.com
+logupload.tclclouds.com
+globalapi.ad.xiaomi.com 
+mcd.tcl.com
+dsm.tcl.com
+
 #from avg
 velocityville.autos
 jwalf.com
