@@ -1,3 +1,9 @@
+# for wechat dns server
+dns.wechat.com
+# for wechat payment, no need at home
+paydns.wechat.com
+
+#for TCL TV
 acr.tcl.com
 dcs.tcl.com
 analytics.tclclouds.com
